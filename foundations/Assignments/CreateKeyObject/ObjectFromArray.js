@@ -12,7 +12,7 @@ function groupById(array) {
 }
 
 let usersById = groupById(users);
-
+console.log(usersById);
 /*
 // after the call we should have:
 
